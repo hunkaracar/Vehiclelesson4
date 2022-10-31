@@ -1,0 +1,15 @@
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\bin\Debug\net6.0\nesnelesson4.exe
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\bin\Debug\net6.0\nesnelesson4.deps.json
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\bin\Debug\net6.0\nesnelesson4.runtimeconfig.json
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\bin\Debug\net6.0\nesnelesson4.dll
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\bin\Debug\net6.0\nesnelesson4.pdb
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\obj\Debug\net6.0\nesnelesson4.csproj.AssemblyReference.cache
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\obj\Debug\net6.0\nesnelesson4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\obj\Debug\net6.0\nesnelesson4.AssemblyInfoInputs.cache
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\obj\Debug\net6.0\nesnelesson4.AssemblyInfo.cs
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\obj\Debug\net6.0\nesnelesson4.csproj.CoreCompileInputs.cache
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\obj\Debug\net6.0\nesnelesson4.dll
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\obj\Debug\net6.0\refint\nesnelesson4.dll
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\obj\Debug\net6.0\nesnelesson4.pdb
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\obj\Debug\net6.0\nesnelesson4.genruntimeconfig.cache
+C:\Nesnetabanlıprogramlamaders\nesnelesson4\nesnelesson4\obj\Debug\net6.0\ref\nesnelesson4.dll
